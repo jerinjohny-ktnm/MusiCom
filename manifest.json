@@ -1,6 +1,6 @@
 {
-    "name": "Musicder",
-    "short_name": "Musicder",
+    "name": "MusiCom",
+    "short_name": "MusiCom",
     "description": "Enjoy Music for Free",
     "display": "standalone",
     "start_url": "/?t=pwa",
