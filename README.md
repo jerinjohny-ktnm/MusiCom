@@ -42,7 +42,7 @@
 
 ## 2. Frontend
 ### Brief: <br>
-*Musicder is a Javascript project. It fetch song's details from a [API](https://github.com/cachecleanerjeet/jiosaavnapi "JioSaavnAPI") and Serve it.*<br>
+*MusiCom is a Javascript project. It fetch song's details from a [API](https://github.com/cachecleanerjeet/jiosaavnapi "JioSaavnAPI") and Serve it.*<br>
 ### Deploy:<br>
 
 **I will suggest Netlify if you want that song will download with their original name.** <br>
