@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  <a href="https://github.com/jerinjohny-ktnm/musicom"><img src="https://repository-images.githubusercontent.com/291051734/39ec7780-eab5-11ea-9f0a-d51066507425" alt="Musicder" width="400"></a>
+  <a href="https://github.com/jerinjohny-ktnm/musicom"><img src="https://telegra.ph/file/3f14fde40baee074311d6.png" alt="Musicom" width="400"></a>
  <br>
 <p>
   <a href="https://www.codefactor.io/repository/github/cachecleanerjeet/musicder">
