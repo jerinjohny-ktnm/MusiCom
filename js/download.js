@@ -35,7 +35,7 @@ xmlhttp.onreadystatechange = function() {
         document.getElementById("qthree").download = songname + ".mp3";
     }
 };
-xmlhttp.open("GET", "https://songapi.thetuhin.com/song?id=" + id, true);
+xmlhttp.open("GET", "https://songapi.cf/song?id=" + id, true);
 xmlhttp.send();
 
 /*!
