@@ -57,7 +57,7 @@ xmlhttp.onreadystatechange = function() {
     };
 };
 //this is the song detail api
-xmlhttp.open("GET", "https://songapi.thetuhin.com/song?id=" + songid, true);
+xmlhttp.open("GET", "https://songapi.cf/song?id=" + songid, true);
 xmlhttp.send();
 
 //when lyricsask tapped lyrics will shown (if lyrics available)
